@@ -53,10 +53,20 @@ company that values product quality and fosters professional growth.
   <table>
     <tr>
       <td align="center">
-        <a href="[https://git-scm.com](https://www.google.com/aclk?sa=l&ai=DChcSEwjtg9qbjaCJAxVqkmgJHSCWPJwYABAAGgJ3Zg&co=1&ase=2&gclid=Cj0KCQjw99e4BhDiARIsAISE7P8tiQyDgFGoqiOEpDT1bqSMYIzBrRTHNCS7qFF8Rtq0VS83DsCisBIaAv8FEALw_wcB&sig=AOD64_1tX13Ljk9_9UeXE4ssGvvqMaubGw&q&nis=4&adurl&ved=2ahUKEwjHmdWbjaCJAxW__rsIHTZpMIkQ0Qx6BAgIEAE)/" target="_blank" rel="noreferrer">
+        <a href="https://git-scm.com](https://www.google.com/aclk?sa=l&ai=DChcSEwjtg9qbjaCJAxVqkmgJHSCWPJwYABAAGgJ3Zg&co=1&ase=2&gclid=Cj0KCQjw99e4BhDiARIsAISE7P8tiQyDgFGoqiOEpDT1bqSMYIzBrRTHNCS7qFF8Rtq0VS83DsCisBIaAv8FEALw_wcB&sig=AOD64_1tX13Ljk9_9UeXE4ssGvvqMaubGw&q&nis=4&adurl&ved=2ahUKEwjHmdWbjaCJAxW__rsIHTZpMIkQ0Qx6BAgIEAE)/" target="_blank" rel="noreferrer">
           <img
-            src="<a href="https://iconscout.com/icons/flutter" class="text-underline font-size-sm" target="_blank">flutter</a> by <a href="https://iconscout.com/contributors/maninderkaur" class="text-underline font-size-sm" target="_blank">maninderkaur</a>"
-            alt="git"
+            src="https://www.svgrepo.com/show/353751/flutter.svg"
+            alt="Flutter"
+            width="40"
+            height="40"
+          />
+        </a>
+      </td>
+    <td align="center">
+        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+            alt="dotnet"
             width="40"
             height="40"
           />
@@ -183,17 +193,7 @@ company that values product quality and fosters professional growth.
             height="40"
           />
         </a>
-      </td>
-      <td align="center">
-        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-            alt="dotnet"
-            width="40"
-            height="40"
-          />
-        </a>
-      </td>
+            </td>
       <td align="center">
         <a href="https://nestjs.com">
           <img
