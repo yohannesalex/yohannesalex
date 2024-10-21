@@ -53,6 +53,16 @@ company that values product quality and fosters professional growth.
   <table>
     <tr>
       <td align="center">
+        <a href="[https://git-scm.com](https://www.google.com/aclk?sa=l&ai=DChcSEwjtg9qbjaCJAxVqkmgJHSCWPJwYABAAGgJ3Zg&co=1&ase=2&gclid=Cj0KCQjw99e4BhDiARIsAISE7P8tiQyDgFGoqiOEpDT1bqSMYIzBrRTHNCS7qFF8Rtq0VS83DsCisBIaAv8FEALw_wcB&sig=AOD64_1tX13Ljk9_9UeXE4ssGvvqMaubGw&q&nis=4&adurl&ved=2ahUKEwjHmdWbjaCJAxW__rsIHTZpMIkQ0Qx6BAgIEAE)/" target="_blank" rel="noreferrer">
+          <img
+            src="<a href="https://iconscout.com/icons/flutter" class="text-underline font-size-sm" target="_blank">flutter</a> by <a href="https://iconscout.com/contributors/maninderkaur" class="text-underline font-size-sm" target="_blank">maninderkaur</a>"
+            alt="git"
+            width="40"
+            height="40"
+          />
+        </a>
+      </td>
+      <td align="center">
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -82,55 +92,11 @@ company that values product quality and fosters professional growth.
           />
         </a>
       </td>
-      <td align="center">
-        <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg"
-            alt="insomnia"
-            width="40"
-            height="40"
-          />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-            alt="git"
-            width="40"
-            height="40"
-          />
-        </a>
-      </td>
-      <td align="center">
-        <a
-          href="https://go.dev/learn/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"
-            alt="go"
-            width="40"
-            height="40"
-          />
-        </a>
-      </td>
        <td align="center">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker"
-            width="40"
-            height="40"
-          />
-        </a>
-      </td>
-        <td align="center">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg"
-            alt="neovim"
             width="40"
             height="40"
           />
