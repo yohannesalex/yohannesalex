@@ -43,7 +43,10 @@ company that values product quality and fosters professional growth.
 <h3 align="center">🌱 I’m currently learning:</h3>
 <ul>
   <li>          Data Structures and Algorithms</li>
+  <li>          Machine learning</li>
+  <li>          Mathematics for AI ⭐</li>
   <li>          Advanced Flutter ⭐</li>
+  <li>          Advanced .Net ⭐</li>li
   <li>          Design patterns</li>
 </ul>
 
