@@ -46,7 +46,7 @@ company that values product quality and fosters professional growth.
   <li>          Machine learning</li>
   <li>          Mathematics for AI ⭐</li>
   <li>          Advanced Flutter ⭐</li>
-  <li>          Advanced .Net ⭐</li>li
+  <li>          Advanced .Net ⭐</li>
   <li>          Design patterns</li>
 </ul>
 
