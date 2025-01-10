@@ -46,7 +46,7 @@ company that values product quality and fosters professional growth.
   <li>          Advanced .Net ⭐⭐⭐</li>
   <li>          Advanced Python ⭐⭐⭐</li>
   <li>          Data Structures and Algorithms⭐⭐⭐</li>
-  <li>          ExpressJs⭐</li>
+  <li>          ExpressJs⭐⭐</li>
   <li>          Machine learning⭐⭐</li>
   <li>          Design patterns</li>
 </ul>
