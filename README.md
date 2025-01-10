@@ -44,6 +44,7 @@ company that values product quality and fosters professional growth.
 <ul>
   <li>          Advanced Flutter ⭐⭐⭐</li>
   <li>          Advanced .Net ⭐⭐⭐</li>
+  <li>          Advanced Python ⭐⭐⭐</li>
   <li>          Data Structures and Algorithms⭐⭐⭐</li>
   <li>          ExpressJs⭐</li>
   <li>          Machine learning⭐⭐</li>
