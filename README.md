@@ -21,7 +21,7 @@ with a strong interest in Mobile App Development technologies.I am currently see
 company that values product quality and fosters professional growth.
 </p>
 <div align="left">
-  <a href="https://www.linkedin.com/in/yohannes-alemayehu-761610252"
+  <a href="https://www.linkedin.com/in/yohannes-alemayehu-abdi"
     ><img
       src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamiru-alemnew/"
   /></a>
@@ -32,7 +32,7 @@ company that values product quality and fosters professional growth.
   <a href="https://codeforces.com/profile/YohannesA" target="blank"
     ><img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-      alt="beka-birhanu"
+      alt="yohannes-alemayheu"
       height="20"
       width="30"
   /></a>
@@ -42,11 +42,11 @@ company that values product quality and fosters professional growth.
 
 <h3 align="center">🌱 I’m currently learning:</h3>
 <ul>
-  <li>          Data Structures and Algorithms</li>
-  <li>          Machine learning</li>
-  <li>          Mathematics for AI ⭐</li>
-  <li>          Advanced Flutter ⭐</li>
-  <li>          Advanced .Net ⭐</li>
+  <li>          Advanced Flutter ⭐⭐⭐</li>
+  <li>          Advanced .Net ⭐⭐⭐</li>
+  <li>          Data Structures and Algorithms⭐⭐⭐</li>
+  <li>          ExpressJs⭐</li>
+  <li>          Machine learning⭐⭐</li>
   <li>          Design patterns</li>
 </ul>
 
