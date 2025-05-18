@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there, I'm Yohannes Alemayehu</h1>
 <p align="left">
-I am a software engineering student at Addis Ababa University with a passion for learning.I love working on Websites,
+I am a software engineer with a passion for learning.I love working on AI agents and Machine Learning,
 with a strong interest in Mobile App Development technologies.I am currently seeking an opportunity to gain hands-on experience in a
 company that values product quality and fosters professional growth.
 </p>
@@ -42,6 +42,9 @@ company that values product quality and fosters professional growth.
 
 <h3 align="center">🌱 I’m currently learning:</h3>
 <ul>
+  <li>          AI Agents ⭐⭐⭐</li>
+  <li>          Advanced Fast API⭐⭐⭐</li>
+  <li>          Micro Services ⭐⭐⭐</li>
   <li>          Advanced Flutter ⭐⭐⭐</li>
   <li>          Advanced .Net ⭐⭐⭐</li>
   <li>          Advanced Python ⭐⭐⭐</li>
