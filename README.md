@@ -40,7 +40,7 @@ company that values product quality and fosters professional growth.
 <h1></h1>
 <br />
 
-<h3 align="center">🌱 I’m currently learning:</h3>
+<h3 align="center">🌱 Major Skills:</h3>
 <ul>
   <li>          AI Agents ⭐⭐⭐</li>
   <li>          Advanced Fast API⭐⭐⭐</li>
